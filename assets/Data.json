@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Hoegaarden",
+    "category": "white",
+    "countryOfOrigin": "Belgium",
+    "tastedDate": "2024-05-15",
+    "rating": "4.5",
+    "comments": "Refreshing and slightly citrusy."
+  },
+  {
+    "name": "Heineken",
+    "category": "blonde",
+    "countryOfOrigin": "Netherlands",
+    "tastedDate": "2024-06-20",
+    "rating": "3.8",
+    "comments": "Smooth with a mild flavor."
+  },
+  {
+    "name": "Guinness",
+    "category": "dark",
+    "countryOfOrigin": "Ireland",
+    "tastedDate": "2024-07-10",
+    "rating": "4.9",
+    "comments": "Rich and creamy with a distinct flavor."
+  },
+  {
+    "name": "Chimay Blue",
+    "category": "dark",
+    "countryOfOrigin": "Belgium",
+    "tastedDate": "2024-04-22",
+    "rating": "4.8",
+    "comments": "Strong and full-bodied."
+  },
+  {
+    "name": "Sierra Nevada Pale Ale",
+    "category": "IPA",
+    "countryOfOrigin": "USA",
+    "tastedDate": "2024-03-18",
+    "rating": "4.3",
+    "comments": "Hoppy and refreshing."
+  },
+  {
+    "name": "Corona Extra",
+    "category": "blonde",
+    "countryOfOrigin": "Mexico",
+    "tastedDate": "2024-02-05",
+    "rating": "3.5",
+    "comments": "Light and easy to drink."
+  },
+  {
+    "name": "Newcastle Brown Ale",
+    "category": "amber",
+    "countryOfOrigin": "UK",
+    "tastedDate": "2024-01-12",
+    "rating": "4.0",
+    "comments": "Smooth with a caramel finish."
+  },
+  {
+    "name": "Leffe Blonde",
+    "category": "blonde",
+    "countryOfOrigin": "Belgium",
+    "tastedDate": "2023-12-30",
+    "rating": "4.2",
+    "comments": "Strong and complex with a smooth finish."
+  },
+  {
+    "name": "Anchor Steam Beer",
+    "category": "amber",
+    "countryOfOrigin": "USA",
+    "tastedDate": "2023-09-10",
+    "rating": "4.0",
+    "comments": "Unique brewing style with a rich flavor."
+  },
+  {
+    "name": "Pilsner Urquell",
+    "category": "blonde",
+    "countryOfOrigin": "Czech Republic",
+    "tastedDate": "2023-08-15",
+    "rating": "4.6",
+    "comments": "Crisp and refreshing with a slight bitterness."
+  }
+]
